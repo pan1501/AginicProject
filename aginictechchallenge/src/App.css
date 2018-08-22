@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+ 
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+  color: black;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.inputelabel{
+  float: right;
+}
+.inputbox{
+  float:left;
+}
+.btn{
+  margin: 10px 10px;
+}
+.row{
+  padding: 5px;
+}
+form{
+  padding:5px;
+}
+li{
+  list-style: none;
+}
+
+.card{
+  margin:5% 0px;
+}
